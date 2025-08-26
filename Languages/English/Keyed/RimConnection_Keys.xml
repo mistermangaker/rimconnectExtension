@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+    <RimConnectionDroppodMailLabel>Twitch Drop</RimConnectionDroppodMailLabel>
+    <RimConnectionPositiveDroppodMailBody>
+        Twitch has sent you a gift (Or a curse?!)
+
+        {1}
+
+        {2}
+    </RimConnectionPositiveDroppodMailBody>
+</LanguageData>
