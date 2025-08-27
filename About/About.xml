@@ -25,6 +25,9 @@
     <li>brrainz.harmony</li>
     <li>rwmt.Multiplayer</li>
   </loadAfter>
+  <incompatibleWith>
+   <packageId>betterscenes.rimconnect</packageId>
+	</incompatibleWith>
   <description>Twitch integration with RimConnect extension 
   
 Version 1.6.0
